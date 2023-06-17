@@ -1,0 +1,78 @@
+[
+    {
+      "id": "1",
+      "topics": [
+        {
+          "title": "Unleashing the Power of Quantum Computing",
+          "keywords": ["Quantum Computing", "Qubits", "Superposition", "Quantum Algorithms"]
+        },
+        {
+          "title": "Transforming Healthcare with Artificial Intelligence",
+          "keywords": ["Artificial Intelligence", "Machine Learning", "Healthcare", "Medical Diagnosis"]
+        },
+        {
+          "title": "Augmented Reality and Virtual Reality",
+          "keywords": ["Augmented Reality", "Virtual Reality", "Immersive Technology", "3D Visualization"]
+        },
+        {
+          "title": "Revolutionizing Genetics with CRISPR and Genetic Engineering",
+          "keywords": ["Genetic Engineering", "CRISPR", "Gene Editing", "Biotechnology"]
+        },
+        {
+          "title": "Connecting the World: Exploring the Internet of Things",
+          "keywords": ["Internet of Things", "IoT Devices", "Connectivity", "Smart Home"]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "topics": [
+        {
+          "title": "Unveiling Hidden Gems: Offbeat Travel Destinations",
+          "keywords": ["Offbeat", "Travel Destinations", "Adventure", "Exploration"]
+        },
+        {
+          "title": "Thrilling Outdoor Adventures: Conquer Nature's Challenges",
+          "keywords": ["Outdoor Adventures", "Nature", "Challenges", "Adrenaline"]
+        },
+        {
+          "title": "Cultural Immersion: Unraveling Traditions and Local Experiences",
+          "keywords": ["Cultural Immersion", "Traditions", "Local Experiences", "Heritage"]
+        },
+        {
+          "title": "Wildlife Encounters: Exploring Nature's Majestic Creatures",
+          "keywords": ["Wildlife", "Nature", "Animals", "Conservation"]
+        },
+        {
+          "title": "Epic Road Trips: Unforgettable Journeys on the Open Road",
+          "keywords": ["Road Trips", "Adventure", "Scenic Routes", "Exploration"]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "topics": [
+        {
+          "title": "Visual Arts: Discovering the World of Paintings and Sculptures",
+          "keywords": ["Visual Arts", "Paintings", "Sculptures", "Art Exhibitions"]
+        },
+        {
+          "title": "Rhythmic Melodies: Journey into the World of Music",
+          "keywords": ["Music", "Melodies", "Genres", "Musical Instruments"]
+        },
+        {
+          "title": "Literary Masterpieces: Uncovering the Beauty of Words",
+          "keywords": ["Literature", "Books", "Writers", "Poetry"]
+        },
+        {
+          "title": "Performing Arts Extravaganza: Dance, Theater, and Live Performances",
+          "keywords": ["Performing Arts", "Dance", "Theater", "Live Performances"]
+        },
+        {
+          "title": "Cultural Festivals: Celebrating Diversity and Traditions",
+          "keywords": ["Cultural Festivals", "Celebrations", "Traditions", "Cuisine"]
+        }
+      ]
+    }
+  ]
+  
